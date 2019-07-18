@@ -1,6 +1,3 @@
-#Vanessa Joyce Tan, 30556864
-#Task2: Reversi
-
 import copy
 
 def new_board():
