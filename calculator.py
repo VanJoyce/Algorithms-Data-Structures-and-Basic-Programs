@@ -1,6 +1,3 @@
-#Vanessa Joyce Tan, 30556864
-#Task 2: Calculator
-
 from math import pow
 
 operators = ["+", "-", "*", "/", "^"]
