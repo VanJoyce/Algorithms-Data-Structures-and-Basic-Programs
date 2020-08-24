@@ -1,0 +1,8 @@
+Initial value of PC: 0x00400000
+PC contains the address of the current instruction.
+
+The adjacent instructions in the text segment have addresses that differ by 4 bytes.
+
+Yes, every MIPS instruction has been assembled into a single machine code instruction.
+
+The data segment contains the string of strlabel1 (but not in order).

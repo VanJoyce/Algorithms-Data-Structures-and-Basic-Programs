@@ -1,0 +1,18 @@
+MIPS INSTRUCTIONS:
+11 stores the immediate value 4 into $v0
+12 stores the string with label strlabel1 into $a0
+13 call system call with calling code 4
+16 stores the immediate value 10 into $v0
+17 call system call with calling code 10
+
+NAME OF THE LABEL:
+strlabel1
+
+ASSEMBLY DIRECTIVES:
+6 .asciiz (to declare that strlabel1 is a string and terminates with a null character)
+
+GLOBAL VARIABLES:
+strlabel1 
+
+GENERAL PURPOSE REGISTERS USED:
+$v0, $0, $a0
